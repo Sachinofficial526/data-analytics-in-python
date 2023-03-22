@@ -1,0 +1,102 @@
+,millionairesname,name,age,networth,source
+0,Elon Musk,<td>Elon Musk</td>,<td>50</td>,<td>$269.7 B</td>,"<td>Tesla, SpaceX</td>"
+1,Jeff Bezos,<td>Jeff Bezos</td>,<td>58</td>,<td>$170.2 B</td>,<td>Amazon</td>
+2,Bernard Arnault & family,<td>Bernard Arnault &amp; family</td>,<td>73</td>,<td>$166.8 B</td>,<td>LVMH</td>
+3,Bill Gates,<td>Bill Gates</td>,<td>66</td>,<td>$130.2 B</td>,<td>Microsoft</td>
+4,Gautam Adani & family,<td>Gautam Adani &amp; family</td>,<td>59</td>,<td>$123.0 B</td>,"<td>infrastructure, commodities</td>"
+5,Warren Buffett,<td>Warren Buffett</td>,<td>91</td>,<td>$121.7 B</td>,<td>Berkshire Hathaway</td>
+6,Larry Ellison,<td>Larry Ellison</td>,<td>77</td>,<td>$107.6 B</td>,<td>software</td>
+7,Mukesh Ambani,<td>Mukesh Ambani</td>,<td>65</td>,<td>$103.2 B</td>,<td>diversified</td>
+8,Larry Page,<td>Larry Page</td>,<td>49</td>,<td>$102.4 B</td>,<td>Google</td>
+9,Sergey Brin,<td>Sergey Brin</td>,<td>48</td>,<td>$98.5 B</td>,<td>Google</td>
+10,Steve Ballmer,<td>Steve Ballmer</td>,<td>66</td>,<td>$89.8 B</td>,<td>Microsoft</td>
+11,Carlos Slim Helu & family,<td>Carlos Slim Helu &amp; family</td>,<td>82</td>,<td>$88.6 B</td>,<td>telecom</td>
+12,Michael Bloomberg,<td>Michael Bloomberg</td>,<td>80</td>,<td>$82.0 B</td>,<td>Bloomberg LP</td>
+13,Francoise Bettencourt Meyers & family,<td>Francoise Bettencourt Meyers &amp; family</td>,<td>68</td>,<td>$76.4 B</td>,<td>L'Oréal</td>
+14,Jim Walton,<td>Jim Walton</td>,<td>73</td>,<td>$71.6 B</td>,<td>Walmart</td>
+15,Alice Walton,<td>Alice Walton</td>,<td>72</td>,<td>$70.7 B</td>,<td>Walmart</td>
+16,Rob Walton,<td>Rob Walton</td>,<td>77</td>,<td>$70.3 B</td>,<td>Walmart</td>
+17,Zhong Shanshan,<td>Zhong Shanshan</td>,<td>67</td>,<td>$67.3 B</td>,"<td>beverages, pharmaceuticals</td>"
+18,Mark Zuckerberg,<td>Mark Zuckerberg</td>,<td>37</td>,<td>$66.1 B</td>,<td>Facebook</td>
+19,Changpeng Zhao,<td>Changpeng Zhao</td>,<td>44</td>,<td>$65.0 B</td>,<td>cryptocurrency exchange</td>
+20,Charles Koch,<td>Charles Koch</td>,<td>86</td>,<td>$62.4 B</td>,<td>Koch Industries</td>
+21,Julia Koch & family,<td>Julia Koch &amp; family</td>,<td>60</td>,<td>$62.4 B</td>,<td>Koch Industries</td>
+22,Amancio Ortega,<td>Amancio Ortega</td>,<td>86</td>,<td>$55.9 B</td>,<td>Zara</td>
+23,Michael Dell,<td>Michael Dell</td>,<td>57</td>,<td>$52.7 B</td>,<td>Dell computers</td>
+24,Zhang Yiming,<td>Zhang Yiming</td>,<td>38</td>,<td>$49.5 B</td>,<td>TikTok</td>
+25,Phil Knight & family,<td>Phil Knight &amp; family</td>,<td>84</td>,<td>$49.3 B</td>,<td>Nike</td>
+26,David Thomson & family,<td>David Thomson &amp; family</td>,<td>64</td>,<td>$48.8 B</td>,<td>media</td>
+27,Dieter Schwarz,<td>Dieter Schwarz</td>,<td>82</td>,<td>$44.2 B</td>,<td>retail</td>
+28,MacKenzie Scott,<td>MacKenzie Scott</td>,<td>52</td>,<td>$42.6 B</td>,<td>Amazon</td>
+29,Rodolphe Saadé & family,<td>Rodolphe Saadé &amp; family</td>,<td>52</td>,<td>$41.4 B</td>,<td>shipping</td>
+30,Klaus-Michael Kuehne,<td>Klaus-Michael Kuehne</td>,<td>84</td>,<td>$41.0 B</td>,<td>shipping</td>
+31,François Pinault & family,<td>François Pinault &amp; family</td>,<td>85</td>,<td>$38.3 B</td>,<td>luxury goods</td>
+32,Beate Heister & Karl Albrecht Jr. & family,<td>Beate Heister &amp; Karl Albrecht Jr. &amp; family</td>,<td></td>,<td>$37.8 B</td>,<td>supermarkets</td>
+33,Ma Huateng,<td>Ma Huateng</td>,<td>50</td>,<td>$35.8 B</td>,<td>internet media</td>
+34,Li Ka-shing,<td>Li Ka-shing</td>,<td>93</td>,<td>$35.6 B</td>,<td>diversified</td>
+35,Giovanni Ferrero,<td>Giovanni Ferrero</td>,<td>57</td>,<td>$35.6 B</td>,"<td>Nutella, chocolates</td>"
+36,Robin Zeng,<td>Robin Zeng</td>,<td>53</td>,<td>$35.1 B</td>,<td>batteries</td>
+37,John Mars,<td>John Mars</td>,<td>86</td>,<td>$34.9 B</td>,"<td>candy, pet food</td>"
+38,Jacqueline Mars,<td>Jacqueline Mars</td>,<td>82</td>,<td>$34.9 B</td>,"<td>candy, pet food</td>"
+39,Stephen Schwarzman,<td>Stephen Schwarzman</td>,<td>75</td>,<td>$33.5 B</td>,<td>investments</td>
+40,Lee Shau Kee,<td>Lee Shau Kee</td>,<td>94</td>,<td>$33.1 B</td>,<td>real estate</td>
+41,Len Blavatnik,<td>Len Blavatnik</td>,<td>64</td>,<td>$32.0 B</td>,"<td>music, chemicals</td>"
+42,Alain Wertheimer,<td>Alain Wertheimer</td>,<td>73</td>,<td>$31.7 B</td>,<td>Chanel</td>
+43,Gerard Wertheimer,<td>Gerard Wertheimer</td>,<td>71</td>,<td>$31.7 B</td>,<td>Chanel</td>
+44,Gina Rinehart,<td>Gina Rinehart</td>,<td>68</td>,<td>$30.0 B</td>,<td>mining</td>
+45,Leonardo Del Vecchio & family,<td>Leonardo Del Vecchio &amp; family</td>,<td>86</td>,<td>$29.5 B</td>,<td>eyeglasses</td>
+46,Jim Simons,<td>Jim Simons</td>,<td>84</td>,<td>$28.6 B</td>,<td>hedge funds</td>
+47,German Larrea Mota Velasco & family,<td>German Larrea Mota Velasco &amp; family</td>,<td>68</td>,<td>$28.3 B</td>,<td>mining</td>
+48,Miriam Adelson,<td>Miriam Adelson</td>,<td>76</td>,<td>$27.5 B</td>,<td>casinos</td>
+49,William Lei Ding,<td>William Lei Ding</td>,<td>50</td>,<td>$27.2 B</td>,<td>online games</td>
+50,He Xiangjian,<td>He Xiangjian</td>,<td>79</td>,<td>$26.8 B</td>,<td>home appliances</td>
+51,Ken Griffin,<td>Ken Griffin</td>,<td>53</td>,<td>$26.7 B</td>,<td>hedge funds</td>
+52,Shiv Nadar,<td>Shiv Nadar</td>,<td>76</td>,<td>$26.6 B</td>,<td>software services</td>
+53,Dietrich Mateschitz,<td>Dietrich Mateschitz</td>,<td>77</td>,<td>$26.4 B</td>,<td>Red Bull</td>
+54,Vladimir Potanin,<td>Vladimir Potanin</td>,<td>61</td>,<td>$25.6 B</td>,<td>metals</td>
+55,Emmanuel Besnier,<td>Emmanuel Besnier</td>,<td>51</td>,<td>$25.2 B</td>,<td>cheese</td>
+56,Susanne Klatten,<td>Susanne Klatten</td>,<td>59</td>,<td>$25.1 B</td>,"<td>BMW, pharmaceuticals</td>"
+57,Li Shufu,<td>Li Shufu</td>,<td>58</td>,<td>$24.9 B</td>,<td>automobiles</td>
+58,Tadashi Yanai & family,<td>Tadashi Yanai &amp; family</td>,<td>73</td>,<td>$24.7 B</td>,<td>fashion retail</td>
+59,Cyrus Poonawalla,<td>Cyrus Poonawalla</td>,<td>80</td>,<td>$24.2 B</td>,<td>vaccines</td>
+60,Sam Bankman-Fried,<td>Sam Bankman-Fried</td>,<td>30</td>,<td>$24.0 B</td>,<td>cryptocurrency exchange</td>
+61,Vladimir Lisin,<td>Vladimir Lisin</td>,<td>65</td>,<td>$23.8 B</td>,"<td>steel, transport</td>"
+62,Qin Yinglin,<td>Qin Yinglin</td>,<td>57</td>,<td>$23.1 B</td>,<td>pig breeding</td>
+63,R. Budi Hartono,<td>R. Budi Hartono</td>,<td>81</td>,<td>$23.1 B</td>,"<td>banking, tobacco</td>"
+64,Leonard Lauder,<td>Leonard Lauder</td>,<td>89</td>,<td>$23.0 B</td>,<td>Estee Lauder</td>
+65,Guillaume Pousaz,<td>Guillaume Pousaz</td>,<td>40</td>,<td>$23.0 B</td>,<td>fintech</td>
+66,Jack Ma,<td>Jack Ma</td>,<td>57</td>,<td>$22.8 B</td>,<td>e-commerce</td>
+67,Michael Hartono,<td>Michael Hartono</td>,<td>82</td>,<td>$22.2 B</td>,"<td>banking, tobacco</td>"
+68,Ray Dalio,<td>Ray Dalio</td>,<td>72</td>,<td>$22.0 B</td>,<td>hedge funds</td>
+69,Iris Fontbona & family,<td>Iris Fontbona &amp; family</td>,<td>79</td>,<td>$21.9 B</td>,<td>mining</td>
+70,Takemitsu Takizaki,<td>Takemitsu Takizaki</td>,<td>76</td>,<td>$21.8 B</td>,<td>sensors</td>
+71,Stefan Quandt,<td>Stefan Quandt</td>,<td>55</td>,<td>$21.4 B</td>,<td>BMW</td>
+72,Masayoshi Son,<td>Masayoshi Son</td>,<td>64</td>,<td>$21.1 B</td>,"<td>internet, telecom</td>"
+73,Andrey Melnichenko,<td>Andrey Melnichenko</td>,<td>50</td>,<td>$21.1 B</td>,"<td>coal, fertilizers</td>"
+74,Abigail Johnson,<td>Abigail Johnson</td>,<td>60</td>,<td>$20.8 B</td>,<td>money management</td>
+75,Eric Schmidt,<td>Eric Schmidt</td>,<td>66</td>,<td>$20.7 B</td>,<td>Google</td>
+76,Wang Wei,<td>Wang Wei</td>,<td>51</td>,<td>$20.6 B</td>,<td>package delivery</td>
+77,Leonid Mikhelson,<td>Leonid Mikhelson</td>,<td>66</td>,<td>$20.5 B</td>,"<td>gas, chemicals</td>"
+78,Andrew Forrest,<td>Andrew Forrest</td>,<td>60</td>,<td>$20.2 B</td>,<td>mining</td>
+79,Thomas Peterffy,<td>Thomas Peterffy</td>,<td>77</td>,<td>$20.2 B</td>,<td>discount brokerage</td>
+80,Rupert Murdoch & family,<td>Rupert Murdoch &amp; family</td>,<td>91</td>,<td>$20.0 B</td>,"<td>newspapers, TV network</td>"
+81,Theo Albrecht Jr & family,<td>Theo Albrecht Jr &amp; family</td>,<td>71</td>,<td>$19.2 B</td>,"<td>Aldi, Trader Joe's</td>"
+82,Radhakishan Damani,<td>Radhakishan Damani</td>,<td>67</td>,<td>$19.1 B</td>,"<td>retail, investments</td>"
+83,Wang Chuanfu,<td>Wang Chuanfu</td>,<td>56</td>,<td>$19.0 B</td>,"<td>batteries, automobiles</td>"
+84,Alexey Mordashov,<td>Alexey Mordashov</td>,<td>56</td>,<td>$18.9 B</td>,"<td>steel, investments</td>"
+85,Savitri Jindal & family,<td>Savitri Jindal &amp; family</td>,<td>72</td>,<td>$18.7 B</td>,<td>steel</td>
+86,Pang Kang,<td>Pang Kang</td>,<td>66</td>,<td>$18.7 B</td>,<td>soy sauce</td>
+87,Daniel Gilbert,<td>Daniel Gilbert</td>,<td>60</td>,<td>$18.5 B</td>,<td>Quicken Loans</td>
+88,Jensen Huang,<td>Jensen Huang</td>,<td>59</td>,<td>$18.3 B</td>,<td>semiconductors</td>
+89,Lakshmi Mittal,<td>Lakshmi Mittal</td>,<td>71</td>,<td>$18.1 B</td>,<td>steel</td>
+90,Vagit Alekperov,<td>Vagit Alekperov</td>,<td>71</td>,<td>$18.0 B</td>,<td>oil</td>
+91,Hank & Doug Meijer,<td>Hank &amp; Doug Meijer</td>,<td></td>,<td>$18.0 B</td>,<td>supermarkets</td>
+92,Thomas Frist Jr & family,<td>Thomas Frist Jr &amp; family</td>,<td>83</td>,<td>$18.0 B</td>,<td>hospitals</td>
+93,Gianluigi & Rafaela Aponte,<td>Gianluigi &amp; Rafaela Aponte</td>,<td>81</td>,<td>$17.7 B</td>,<td>Shipping</td>
+94,Lukas Walton,<td>Lukas Walton</td>,<td>35</td>,<td>$17.7 B</td>,<td>Walmart</td>
+95,Reinhold Wuerth & family,<td>Reinhold Wuerth &amp; family</td>,<td>87</td>,<td>$17.6 B</td>,<td>fasteners</td>
+96,Steve Cohen,<td>Steve Cohen</td>,<td>65</td>,<td>$17.4 B</td>,<td>hedge funds</td>
+97,Harold Hamm & family,<td>Harold Hamm &amp; family</td>,<td>76</td>,<td>$17.4 B</td>,<td>oil &amp; gas</td>
+98,Gennady Timchenko,<td>Gennady Timchenko</td>,<td>69</td>,<td>$17.2 B</td>,"<td>oil, gas</td>"
+99,Yang Huiyan & family,<td>Yang Huiyan &amp; family</td>,<td>40</td>,<td>$17.1 B</td>,<td>real estate</td>
+100,Li Xiting,<td>Li Xiting</td>,<td>71</td>,<td>$17.1 B</td>,<td>medical devices</td>
